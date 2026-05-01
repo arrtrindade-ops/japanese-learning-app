@@ -1,0 +1,106 @@
+﻿sound,hiragana,katakana,row,vowel,layer,category_es,notes_es,orden
+a,あ,ア,vocal,a,base,vocal,Vocal básica.,0
+i,い,イ,vocal,i,base,vocal,Vocal básica.,0
+u,う,ウ,vocal,u,base,vocal,Vocal básica.,0
+e,え,エ,vocal,e,base,vocal,Vocal básica.,0
+o,お,オ,vocal,o,base,vocal,Vocal básica.,0
+ka,か,カ,k,a,base,consonante + vocal,Fila K.,1
+ki,き,キ,k,i,base,consonante + vocal,Fila K.,1
+ku,く,ク,k,u,base,consonante + vocal,Fila K.,1
+ke,け,ケ,k,e,base,consonante + vocal,Fila K.,1
+ko,こ,コ,k,o,base,consonante + vocal,Fila K.,1
+sa,さ,サ,s,a,base,consonante + vocal,Fila S.,2
+shi,し,シ,s,i,base,consonante + vocal,Fila S.,2
+su,す,ス,s,u,base,consonante + vocal,Fila S.,2
+se,せ,セ,s,e,base,consonante + vocal,Fila S.,2
+so,そ,ソ,s,o,base,consonante + vocal,Fila S.,2
+ta,た,タ,t,a,base,consonante + vocal,Fila T.,3
+chi,ち,チ,t,i,base,consonante + vocal,Fila T.,3
+tsu,つ,ツ,t,u,base,consonante + vocal,Fila T.,3
+te,て,テ,t,e,base,consonante + vocal,Fila T.,3
+to,と,ト,t,o,base,consonante + vocal,Fila T.,3
+na,な,ナ,n,a,base,consonante + vocal,Fila N.,4
+ni,に,ニ,n,i,base,consonante + vocal,Fila N.,4
+nu,ぬ,ヌ,n,u,base,consonante + vocal,Fila N.,4
+ne,ね,ネ,n,e,base,consonante + vocal,Fila N.,4
+no,の,ノ,n,o,base,consonante + vocal,Fila N.,4
+ha,は,ハ,h,a,base,consonante + vocal,Fila H.,5
+hi,ひ,ヒ,h,i,base,consonante + vocal,Fila H.,5
+fu,ふ,フ,h,u,base,consonante + vocal,Fila H.,5
+he,へ,ヘ,h,e,base,consonante + vocal,Fila H.,5
+ho,ほ,ホ,h,o,base,consonante + vocal,Fila H.,5
+ma,ま,マ,m,a,base,consonante + vocal,Fila M.,6
+mi,み,ミ,m,i,base,consonante + vocal,Fila M.,6
+mu,む,ム,m,u,base,consonante + vocal,Fila M.,6
+me,め,メ,m,e,base,consonante + vocal,Fila M.,6
+mo,も,モ,m,o,base,consonante + vocal,Fila M.,6
+ya,や,ヤ,y,a,base,consonante + vocal,Fila Y.,7
+yu,ゆ,ユ,y,u,base,consonante + vocal,Fila Y.,7
+yo,よ,ヨ,y,o,base,consonante + vocal,Fila Y.,7
+ra,ら,ラ,r,a,base,consonante + vocal,Fila R.,8
+ri,り,リ,r,i,base,consonante + vocal,Fila R.,8
+ru,る,ル,r,u,base,consonante + vocal,Fila R.,8
+re,れ,レ,r,e,base,consonante + vocal,Fila R.,8
+ro,ろ,ロ,r,o,base,consonante + vocal,Fila R.,8
+wa,わ,ワ,w,a,base,consonante + vocal,Fila W.,9
+wo,を,ヲ,w,o,base,consonante + vocal,Fila W.,9
+n,ん,ン,special,,base,consonante,Sonido final N.,16
+ga,が,ガ,g,a,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,10
+gi,ぎ,ギ,g,i,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,10
+gu,ぐ,グ,g,u,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,10
+ge,げ,ゲ,g,e,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,10
+go,ご,ゴ,g,o,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,10
+za,ざ,ザ,z,a,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,11
+ji,じ,ジ,z,i,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,11
+zu,ず,ズ,z,u,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,11
+ze,ぜ,ゼ,z,e,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,11
+zo,ぞ,ゾ,z,o,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,11
+da,だ,ダ,d,a,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,12
+ji,ぢ,ヂ,d,i,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,12
+zu,づ,ヅ,d,u,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,12
+de,で,デ,d,e,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,12
+do,ど,ド,d,o,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,12
+ba,ば,バ,b,a,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,13
+bi,び,ビ,b,i,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,13
+bu,ぶ,ブ,b,u,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,13
+be,べ,ベ,b,e,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,13
+bo,ぼ,ボ,b,o,dakuten,sonido con dakuten,Sonido sonorizado (dakuten).,13
+pa,ぱ,パ,p,a,handakuten,sonido con handakuten,Sonido con handakuten (p).,14
+pi,ぴ,ピ,p,i,handakuten,sonido con handakuten,Sonido con handakuten (p).,14
+pu,ぷ,プ,p,u,handakuten,sonido con handakuten,Sonido con handakuten (p).,14
+pe,ぺ,ペ,p,e,handakuten,sonido con handakuten,Sonido con handakuten (p).,14
+po,ぽ,ポ,p,o,handakuten,sonido con handakuten,Sonido con handakuten (p).,14
+kya,きゃ,キャ,k,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,1
+kyu,きゅ,キュ,k,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,1
+kyo,きょ,キョ,k,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,1
+sha,しゃ,シャ,s,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,2
+shu,しゅ,シュ,s,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,2
+sho,しょ,ショ,s,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,2
+cha,ちゃ,チャ,t,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,3
+chu,ちゅ,チュ,t,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,3
+cho,ちょ,チョ,t,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,3
+nya,にゃ,ニャ,n,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,4
+nyu,にゅ,ニュ,n,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,4
+nyo,にょ,ニョ,n,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,4
+hya,ひゃ,ヒャ,h,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,5
+hyu,ひゅ,ヒュ,h,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,5
+hyo,ひょ,ヒョ,h,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,5
+mya,みゃ,ミャ,m,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,6
+myu,みゅ,ミュ,m,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,6
+myo,みょ,ミョ,m,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,6
+rya,りゃ,リャ,r,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,8
+ryu,りゅ,リュ,r,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,8
+ryo,りょ,リョ,r,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,8
+gya,ぎゃ,ギャ,g,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,10
+gyu,ぎゅ,ギュ,g,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,10
+gyo,ぎょ,ギョ,g,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,10
+ja,じゃ,ジャ,j,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,15
+ju,じゅ,ジュ,j,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,15
+jo,じょ,ジョ,j,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,15
+bya,びゃ,ビャ,b,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,13
+byu,びゅ,ビュ,b,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,13
+byo,びょ,ビョ,b,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,13
+pya,ぴゃ,ピャ,p,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,14
+pyu,ぴゅ,ピュ,p,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,14
+pyo,ぴょ,ピョ,p,,yoon,combinación yōon,Combinación con ya/yu/yo pequeñas.,14
+tsu pequeña,っ,ッ,special,,special,signo especial,Signo especial del sistema kana.,16
